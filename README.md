@@ -1,4 +1,4 @@
-# adjustable-register
+# S T G V
 Selam dostlar bildiğiniz gibi bayadır faliyette değildim. Tekrardan birşeyler paylaşarak eski aktilfiğimizi toparlayıp Discord içerisinde farklı botlar yaparak paylaşmak için geri döndüm, bir önceki projem olan Yetkili XP Stat botunu yakında sizlerle paylaşacağım. 
 
 Bot kurulumu;
