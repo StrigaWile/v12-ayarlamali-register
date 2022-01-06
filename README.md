@@ -3,15 +3,14 @@ Selam dostlar bildiğiniz gibi bayadır faliyette değildim. Tekrardan birşeyle
 
 Bot kurulumu;
 <br>
-• Botun config.js ve settings.json dosyasını doldurun.
+• Botun **`config.js ve settings.json`** dosyasını doldurun.
 <br>
-• Botu çalıştırdıktan sonra !panel kur yazın
+• Botu çalıştırdıktan sonra `!panel kur` yazın
 <br>
-• Botun emojilerini kurmak için !panel emoji-kur
+• Botun emojilerini kurmak için `!panel emoji-kur`
 <br>
-• Hoş geldin mesajını ve kayıt sistemini değiştirmek için !panel yazarak destek alabilirsiniz.
+• Hoş geldin mesajını ve kayıt sistemini değiştirmek için `!panel` yazarak destek alabilirsiniz.
 <br>
-• `Settings.json` dosyasından tüm rol ve kanalları girin.
 
 
 ![register1](https://user-images.githubusercontent.com/68235392/148105859-807daea6-5dbf-4c5a-a1bc-36e7485f99af.png)
