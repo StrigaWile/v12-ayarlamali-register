@@ -11,6 +11,8 @@ Bot kurulumu;
 <br>
 • Hoş geldin mesajını ve kayıt sistemini değiştirmek için !panel yazarak destek alabilirsiniz.
 <br>
+• `Settings.json` dosyasından tüm rol ve kanalları girin.
+
 
 ![register1](https://user-images.githubusercontent.com/68235392/148105859-807daea6-5dbf-4c5a-a1bc-36e7485f99af.png)
 ![register2](https://user-images.githubusercontent.com/68235392/148105870-718f7744-5bb6-4742-b262-0497f4856e2b.png)
