@@ -18,4 +18,6 @@ Bot kurulumu;
 ![register3](https://user-images.githubusercontent.com/68235392/148105874-fc391a60-d4c5-4515-9d61-919ffbc6dd99.png)
 ![hgnormalş](https://user-images.githubusercontent.com/68235392/148422318-0d4c4c59-3dd4-4f63-b372-5e1e3031467a.png)
 ![hgembed](https://user-images.githubusercontent.com/68235392/148422329-681d4a7a-7c10-482e-9735-b0e083d6c760.png)
-![panel](https://user-images.githubusercontent.com/68235392/148422340-8b728aae-fa0a-42d8-ae4d-622654c439db.png)
+
+#Aptal Değilsen
+Bu bot Striga sunucusunun `96 senelik register botu` salak gibi ben yaptım wow diye dolaşacağına sunucuna kur registerini paşa paşa kayıtını yap eğlen az.
