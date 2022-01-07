@@ -1,0 +1,34 @@
+{
+
+    "Roles": {
+        "manRole": "",
+        "womanRole": "",
+        "unregisterRole": "",
+        "manRoles": [],
+        "womanRoles": [],
+        "unregisterRoles": [],
+        "familyRole": "",
+        "vip": "",
+
+        "registerAuthy": "",
+        "kayitYapabilenRoller": []
+    },
+
+    "PunitiveRoles": {
+        "Suspect": "",
+        "Jail": "",
+        "Karantina": "",
+        "kayıtıYasaklıRoller": []
+    },
+
+    "Logs": {
+        "welcomeChat": "",
+        "genelChat": "",
+        "rulesChannel": "",
+
+        "registerLog": "",    
+        "unregisterLog": "",
+        "suspectLog": ""
+    }
+    
+}
